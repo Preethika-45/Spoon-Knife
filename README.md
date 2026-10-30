@@ -18,3 +18,6 @@ This repository is updated as part of my Software Engineering Laboratory experim
 - Learned how Pull Requests are reviewed and merged.
 
 **Contributor:** Preethika
+### Final Outcome
+
+The GitHub collaboration workflow was successfully demonstrated, including branching, committing, pushing, and pull request creation.
