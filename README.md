@@ -17,7 +17,16 @@ This repository is updated as part of my Software Engineering Laboratory experim
 - Demonstrated collaborative project development.
 - Learned how Pull Requests are reviewed and merged.
 
-**Contributor:** Preethika - Main Branch
+**Contributor:** Preethika - Feature Branch and Main Branch
 ### Final Outcome
 
 The GitHub collaboration workflow was successfully demonstrated, including branching, committing, pushing, and pull request creation.
+## Merge Conflict Resolution
+
+This experiment demonstrates resolving merge conflicts
+between two Git branches.
+
+- Created feature and main branches.
+- Modified the same line in both branches.
+- Identified and resolved the conflict.
+- Successfully merged the updated changes.
